@@ -1,0 +1,50 @@
+.heading{
+    text-align: center;
+    margin-top: 80px;
+}
+.background_image{
+    height: 50%;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button{
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.extra {
+    width: 150px;
+    height: 2vh;
+    margin: 10px;
+    
+}
+.start{
+    color: green;
+}
+.stop{
+    color: red;
+}
+.reset{
+    color: grey;
+ 
+}
+#time{
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#timer{
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
